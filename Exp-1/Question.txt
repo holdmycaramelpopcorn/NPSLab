@@ -1,0 +1,5 @@
+Part-A
+Q1
+Implement a client and server communication using sockets programming.
+
+Note: I have used an echo client and server for TCP. The server program is printing the echoed message and the port from which it is recieving.
