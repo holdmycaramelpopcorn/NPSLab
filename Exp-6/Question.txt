@@ -1,0 +1,5 @@
+Q6. Implementation of concurrent and iterative echo server using both connection and
+connectionless socket system calls.
+6a. Connection oriented concurrent echo server 
+6b. Connection oriented iterative echo server 
+6c. Connectionless iterative echo server
