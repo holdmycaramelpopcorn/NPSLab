@@ -1,0 +1,4 @@
+Q7. Implementation of remote command execution using socket system calls.
+
+Note: Client same as Q1. Just doesn't print the echo.
+On the server side, system() was used.
