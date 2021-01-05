@@ -1,0 +1,4 @@
+Setup an IEEE 802.11 network with atleast two access points.
+Apply the CBR, VBR applications between devices belonging to same access points and different access points.
+Provide roaming of any device. Vary the number of access points and devices.
+Find out the delay in MAC layer, packet drop probability.
