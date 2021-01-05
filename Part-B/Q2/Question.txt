@@ -1,0 +1,3 @@
+Setup a wireless sensor networks with atleast two device co-coordinators and nodes.
+Provide Constant Bit Rate (CBR), Variable Bit Rate (VBR) application between several nodes.
+Increase the number of co-coordinators and nodes in the same area and observe the performance at physical and MAC layers.
