@@ -1,0 +1,4 @@
+Setup an IEEE 802.3 network with a) hub b) switch c) Hierarchy of switch.
+Apply the FTP, Telnet applications between nodes.
+Vary the number of nodes.
+Vary the bandwidth, queue size and observe the packet drop probability.
