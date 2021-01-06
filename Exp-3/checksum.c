@@ -5,7 +5,7 @@ int checksum() {
     unsigned int parts[9];
     unsigned int sum;
     printf("Enter the parts, one per line:\n");
-    for (int i = 0; i < 1; i++) {
+    for (int i = 0; i < 10; i++) {
         scanf("%X", &parts[i]);
         sum += parts[i];
         while (sum >> 16)
